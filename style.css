@@ -6,3 +6,12 @@ h1{
     text-align: center;
     color: darkgreen;
 }
+h2{
+    text-align: center;
+    color: #ddd;
+}
+.blog{
+    background: darkblue;
+    width: 500px;
+    height: 400px;
+}
